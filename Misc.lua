@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/ZjqfXeNN"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CarexHub/Misc/refs/heads/main/Chats.lua"))()
 
 
 local SpamInterval = 5
